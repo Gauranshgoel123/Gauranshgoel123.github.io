@@ -1,2 +1,2 @@
 # Gauranshgoel123.github.io
-This contains my submission of a responsive layout for module 2 assignment 
+This contains all my assignments and projects submissions that I did during my Coursera Course Introduction to HTML,CSS,JS. 
